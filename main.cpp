@@ -7,7 +7,6 @@ const int dimensioneMax=5;
 
 // prototipi
 void caricaVettore(char v[], int &n);
-void stampaVettore(char v[], int n);
 void ricercaElemento(char v[], int n);
 
 
